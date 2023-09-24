@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="config-server/src/main/java"/>
+	<classpathentry kind="src" path="eureka-discovery/src/main/java"/>
+	<classpathentry kind="src" path="order/src/main/java"/>
+	<classpathentry kind="src" path="order/src/test/java"/>
+	<classpathentry kind="src" path="product/src/main/java"/>
+	<classpathentry kind="src" path="product/src/test/java"/>
+	<classpathentry kind="src" path="user/src/main/java"/>
+	<classpathentry kind="src" path="user/src/test/java"/>
+	<classpathentry kind="lib" path="config-server/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="eureka-discovery/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="order/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="product/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="user/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
